@@ -2,11 +2,14 @@
 
 ## Table of Contents
 1. [Description](#description)
+
+https://github.com/user-attachments/assets/f611f2c6-a903-4dcb-a009-24ee0bf0cf6d
+
 2. [Tools](#tools)
 3. [Bill of Materials](#bill-of-materials)
 4. [Printing List](#printing-list)
 5. [Fastener List](#fastener-list)
-6. [Printing Orientations](#printing-orientations)
+6. [Printing Orientations](#printing-orientations)https://github.com/aidanahn/milo-v1/blob/main/README.md
 7. [License](#license)
 
 ## Description
