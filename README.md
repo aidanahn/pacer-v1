@@ -1,6 +1,8 @@
 # pacer-v1
 A 3D-printed, 1/10-scale autonomous pacer robot for track and field.
 
+![Front-right view of the Pacer v1 vehicle on a running track](docs/images/front_right_view.jpg)
+
 ## Videos
 https://github.com/user-attachments/assets/b290baa9-71bd-49d5-837f-d4e4456bcb18
 
